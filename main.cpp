@@ -18,6 +18,9 @@ bool isNumber(const std::string& number) {
     if (number.empty()) {
         return false;
     }
+    if (number.length() > 8) {
+        return false;
+    }
     int count = 0;
     for (char c : number) {
         if (c == '-') {
