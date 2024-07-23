@@ -1,0 +1,18 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"dir-cur-bld" : "/run/media/vvv/f37eeb35-dfb2-4f3b-a54b-f6037e5169a2/prog/22_6_1/cmake-build-debug",
+	"dir-cur-src" : "/run/media/vvv/f37eeb35-dfb2-4f3b-a54b-f6037e5169a2/prog/22_6_1",
+	"dir-top-bld" : "/run/media/vvv/f37eeb35-dfb2-4f3b-a54b-f6037e5169a2/prog/22_6_1/cmake-build-debug",
+	"dir-top-src" : "/run/media/vvv/f37eeb35-dfb2-4f3b-a54b-f6037e5169a2/prog/22_6_1",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "/run/media/vvv/f37eeb35-dfb2-4f3b-a54b-f6037e5169a2/prog/22_6_1/cmake-build-debug/CMakeFiles/22_6_1.dir"
+}
